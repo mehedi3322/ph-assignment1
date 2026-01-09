@@ -279,3 +279,35 @@ span{
   box-shadow: 0px 10px 20px 0 #00000006;
   
 }
+.footer-section {
+    background-color: #031b34;
+    color: white;
+    padding: 40px 60px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px dotted blue;
+    
+}
+.footer-logo img {
+    width: 120px;
+}
+.footer-social p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.social-icons img {
+    width: 25px;
+    margin-right: 10px;
+    
+}
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #cfd8dc;
+    border: 2px dotted blue;
+}
