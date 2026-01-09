@@ -283,6 +283,7 @@ span{
     background-color: #031b34;
     color: white;
     padding: 40px 60px;
+    margin-top: 100px;
 }
 .footer-container {
     display: flex;
@@ -310,4 +311,11 @@ span{
     font-size: 14px;
     color: #cfd8dc;
     border: 2px dotted blue;
+}
+
+.btn:hover,
+.white-btn:hover,
+.work-btn:hover,
+.banner-green-btn:hover{
+  background-color: aqua;
 }
