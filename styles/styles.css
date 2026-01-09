@@ -109,3 +109,70 @@ nav .manu a{
     margin-bottom: 32px;
     
   }
+  
+  .icon-color{
+    background-color: #F95555;
+    border-radius: 50%;
+    
+    
+  }
+  .notes{
+    padding-top: 30px;
+  }
+  .note-container{
+    max-width: 1600px;
+    width: 60%;
+    margin: 0 auto;
+    /* border: 3px solid gold; */
+  }
+.note-heading{
+  max-width: 1360px;
+  text-align: center;
+  margin: 0 auto;
+  
+}
+.note-box{
+  display: flex;
+  gap: 24px;
+  max-width: 1360px;
+}
+.note-heading h2{
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 16px;
+    color: black;
+}
+.note-heading p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+  padding-bottom: 44px;
+}
+.note-card{
+  max-width: 322px;
+ padding: 30px;
+ /* border: 3px solid gold; */
+ align-items: center;
+text-align: center;
+border-radius: 8px;
+box-shadow: 0 2px 8px #d1cfcf;
+
+}
+.note-card img{
+  width: 30px;
+  height: 30px;
+ /* padding: 30px; */
+ /* border: 3px solid gold; */
+ margin: 0 80px;
+}
+.note-card h3{
+  color: black;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.note-card p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+}
